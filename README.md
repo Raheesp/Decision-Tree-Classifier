@@ -1,7 +1,4 @@
 # PRODIGY_DS_03
-Certainly! Here’s a concise description and a README section for a project focused on building a decision tree classifier to predict customer behavior, using a dataset like the Bank Marketing dataset from the UCI Machine Learning Repository. This section covers the project overview, instructions for running the code, and an example of the analysis.
-
----
 
 ## Decision Tree Classifier for Customer Purchase Prediction
 
