@@ -61,13 +61,7 @@ Here are some results from the decision tree classifier:
 - **Model Performance:** Achieved an accuracy of X% with the decision tree classifier.
 - **Insights:** Analyzed the most influential factors affecting customer purchase decisions.
 
-### Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-### License
-
-MIT License. See [LICENSE](LICENSE) for details.
 
 ### `decision_tree_classifier.py` Script
 
